@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Pr47h4m/MySQL-Authentication/issues"
   },
-  "homepage": "https://github.com/Pr47h4m/MySQL-Authentication#readme"
+  "homepage": "https://github.com/Pr47h4m/MySQL-Authentication#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
