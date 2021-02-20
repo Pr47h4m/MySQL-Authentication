@@ -1,0 +1,26 @@
+{
+  "name": "mysql-auth",
+  "version": "1.0.0",
+  "description": "Token Based Authentication Using MySQL & NODE.JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pr47h4m/MySQL-Authentication.git"
+  },
+  "keywords": [
+    "MySQL-Authentication",
+    "Token-Based-Authentication",
+    "MySQL",
+    "NODEJS",
+    "Authentication"
+  ],
+  "author": "Pratham Jaiswal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pr47h4m/MySQL-Authentication/issues"
+  },
+  "homepage": "https://github.com/Pr47h4m/MySQL-Authentication#readme"
+}
