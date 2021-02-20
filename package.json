@@ -4,6 +4,7 @@
   "description": "Token Based Authentication Using MySQL & NODE.JS",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "nodemon app.js"
   },
   "repository": {
