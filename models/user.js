@@ -23,6 +23,17 @@ const User = sequelize.define("user", {
   photoUrl: {
     type: Sequelize.STRING,
   },
+  tokenId: {
+    type: Sequelize.STRING,
+    unique: true,
+  },
+  refreshToken: {
+    type: Sequelize.STRING,
+    unique: true,
+  },
+  tokenExpiry: {
+    type: Sequelize.DATE,
+  }
 });
 
 module.exports = User;
